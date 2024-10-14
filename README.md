@@ -62,3 +62,7 @@ string apiKey = "9176d49c31da45959c50f593c60e2034";
 var builder = Kernel.CreateBuilder()
             .AddAzureOpenAIChatCompletion(modelId, endpoint, apiKey);
 ```
+
+Also we verify the deployed model in the Azure Portal services list
+
+![image](https://github.com/user-attachments/assets/70048718-682d-4ffe-9b12-cce3726586c0)
