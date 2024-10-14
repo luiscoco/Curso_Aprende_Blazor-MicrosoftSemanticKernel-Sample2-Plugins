@@ -32,3 +32,16 @@ Input the required data for defining the service and press the Next button
 
 ![image](https://github.com/user-attachments/assets/9bcb0b48-27b8-42ef-9442-c3dbe5dd58cb)
 
+In the Azure OpenAI Studio press in the **Deploy model**
+
+![image](https://github.com/user-attachments/assets/34936d15-d9a0-49fa-996a-bf2e08d80c38)
+
+Now select the option **Deploy base model**
+
+![image](https://github.com/user-attachments/assets/d742730a-f487-41a7-8103-a44e6fb87988)
+
+Select the **AI model** 
+
+![image](https://github.com/user-attachments/assets/c1a48ec7-aef3-4c3b-bf9e-d4b723f66dd5)
+
+
