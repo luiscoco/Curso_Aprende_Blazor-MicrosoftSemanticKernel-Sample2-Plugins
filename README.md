@@ -29,3 +29,6 @@ Input the required data for defining the service and press the Next button
 ![image](https://github.com/user-attachments/assets/1944dfc4-afff-4b65-b494-ee79634ad11b)
 
 ![image](https://github.com/user-attachments/assets/6daca8cd-d4a2-476e-aa45-f0614d62ba58)
+
+![image](https://github.com/user-attachments/assets/9bcb0b48-27b8-42ef-9442-c3dbe5dd58cb)
+
