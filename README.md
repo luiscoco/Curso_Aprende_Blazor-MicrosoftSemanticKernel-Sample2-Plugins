@@ -44,4 +44,21 @@ Select the **AI model**
 
 ![image](https://github.com/user-attachments/assets/c1a48ec7-aef3-4c3b-bf9e-d4b723f66dd5)
 
+Input the data for defining the **AI model**
 
+![image](https://github.com/user-attachments/assets/44fb5a2a-f94b-4ef0-8219-22f0ca56f746)
+
+We copy the deployed model URI and Key
+
+![image](https://github.com/user-attachments/assets/ed4e8744-8309-4f9c-8214-d1e017208a1a)
+
+We paste the model URI, Key and model ID in the middleware (Program.cs):
+
+```csharp
+string modelId = "gpt-4";
+string endpoint = "https://cocoe-m292d2lk-francecentral.openai.azure.com/";
+string apiKey = "9176d49c31da45959c50f593c60e2034";
+
+var builder = Kernel.CreateBuilder()
+            .AddAzureOpenAIChatCompletion(modelId, endpoint, apiKey);
+```
